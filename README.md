@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![](https://img.shields.io/badge/🌐-blog-blue)](shuiruge.github.io)
+[![](https://img.shields.io/badge/🌐-blog-blue)](https://shuiruge.github.io)
 [![](https://img.shields.io/badge/豆-douban-green)](https://www.douban.com/people/shuiruge/)
 
 
