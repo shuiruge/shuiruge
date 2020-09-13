@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+![](https://img.shields.io/badge/🌐-homepage-blue)(shuiruge.github.io)
+![](https://img.shields.io/badge/豆-douban-green)(https://www.douban.com/people/shuiruge/)
+
+
+- 🔭 I’m currently working on machine learning
+- 🌱 I’m currently learning machine learning, Haskell, e.t.c.
+- 💬 Ask me about nothing
+- 📫 How to reach me: shuiruge@hotmail.com
+- ⚡ Fun fact: know nothing
+
 <!--
 **shuiruge/shuiruge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
