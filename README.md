@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![](https://img.shields.io/badge/🌐-homepage-blue)(shuiruge.github.io)
-![](https://img.shields.io/badge/豆-douban-green)(https://www.douban.com/people/shuiruge/)
+[![](https://img.shields.io/badge/🌐-homepage-blue)](shuiruge.github.io)
+[![](https://img.shields.io/badge/豆-douban-green)](https://www.douban.com/people/shuiruge/)
 
 
 - 🔭 I’m currently working on machine learning
