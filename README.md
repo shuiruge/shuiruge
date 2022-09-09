@@ -5,9 +5,9 @@
 
 
 - 🔭 I’m currently working on machine learning
-- 🌱 I’m currently learning machine learning, Haskell, e.t.c.
+- 🌱 I’m currently learning machine learning, differential geometry, e.t.c.
 - 💬 Ask me about nothing
-- 📫 How to reach me: shuiruge@hotmail.com
+- 📫 How to reach me: shuiruge@whu.edu.cn
 - ⚡ Fun fact: know nothing
 
 <!--
