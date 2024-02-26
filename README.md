@@ -4,8 +4,8 @@
 [![](https://img.shields.io/badge/豆-douban-green)](https://www.douban.com/people/shuiruge/)
 
 
-- 🔭 I’m currently working on machine learning
-- 🌱 I’m currently learning machine learning, differential geometry, e.t.c.
+- 🔭 I’m currently working on machine learning and meditation.
+- 🌱 I’m currently learning neural science and differential geometry.
 - 💬 Ask me about nothing
 - 📫 How to reach me: shuiruge@whu.edu.cn
 - ⚡ Fun fact: know nothing
