@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on machine learning and meditation.
 - 🌱 I’m currently learning neural science and differential geometry.
-- 💬 Ask me about nothing
+- 💬 Ask me about nothing.
 - 📫 How to reach me: shuiruge@whu.edu.cn
-- ⚡ Fun fact: know nothing
+- ⚡ Fun fact: know nothing.
 
 <!--
 **shuiruge/shuiruge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
